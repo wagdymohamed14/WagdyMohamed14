@@ -45,7 +45,6 @@ I design and build real-world engineering systems that integrate **mechanics, el
 [![](https://img.shields.io/badge/-🦾%20Hydraulic%20Robotic%20Arm-000)](#)  
 [![](https://img.shields.io/badge/-⚙️%20Crank%20%26%20Piston%20Mechanism-000)](#)  
 [![](https://img.shields.io/badge/-🔌%20Solenoid%20Valve%20Control-000)](#)  
-[![](https://img.shields.io/badge/-🛞%20Transmission%20%26%20Shaft%20Design-000)](#)  
 [![](https://img.shields.io/badge/-📱%20Car%20Rental%20Application%20(Java)-000)](#)
 
 ---
