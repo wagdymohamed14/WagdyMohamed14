@@ -1,11 +1,10 @@
-[![](https://raw.githubusercontent.com/Wagdymohamed/master/profile.gif)](#)
-
-# Wagdy Mohamed  
-### Mechatronics | Robotics | Automation | Mechanical Engineer  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2b2b2b&height=200&section=header&text=Wagdy%20Mohamed&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mechatronics%20Engineer%20|%20Robotics%20|%20Automation&descAlignY=55&descAlign=50"/>
+</p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 Passionate Mechatronics Engineer focused on robotics, embedded systems, automation, and mechanical design.  
 I build real engineering systems that integrate mechanics, electronics, control, and programming.
 
@@ -49,14 +48,14 @@ I build real engineering systems that integrate mechanics, electronics, control,
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/YOUR_USERNAME">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,1f1f1f,2d2d2d,3a3a3a,000000" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&bg_color=0,000000,1f1f1f,2d2d2d" />
-</a>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true"/>
+</p>
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (Put your link here)
-- Email: (Put your email here)
+- LinkedIn:(https://www.linkedin.com/in/wagdy-mohamed/)
+- Email: (wagdymohamed1411@gmail.com)
 
