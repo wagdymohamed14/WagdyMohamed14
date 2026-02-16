@@ -5,8 +5,8 @@
 ---
 
 # 🚀 About Me
-Passionate Mechatronics Engineer focused on robotics, embedded systems, automation, and mechanical design.  
-I build real engineering systems that integrate mechanics, electronics, control, and programming.
+Passionate **Mechatronics Engineer** focused on robotics, embedded systems, automation, and mechanical design.  
+I design and build real-world engineering systems that integrate **mechanics, electronics, control, and programming**.
 
 ---
 
@@ -29,6 +29,7 @@ I build real engineering systems that integrate mechanics, electronics, control,
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-000)
 ![Autodesk Inventor](https://img.shields.io/badge/-Autodesk%20Inventor-000)
 ![Control Systems](https://img.shields.io/badge/-Control%20Systems-000)
+![MATLAB](https://img.shields.io/badge/-MATLAB-000)
 ![Pneumatics](https://img.shields.io/badge/-Pneumatic%20Systems-000)
 ![Automation](https://img.shields.io/badge/-Automation-000)
 ![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-000)
@@ -38,11 +39,14 @@ I build real engineering systems that integrate mechanics, electronics, control,
 ## 🤖 Robotics & Mechanical Projects
 
 [![](https://img.shields.io/badge/-🚗%20Air%20Powered%20Vehicle-000)](#)  
-[![](https://img.shields.io/badge/-🔐%20Dual%20ECU%20Door%20Lock%20System-000)](#)  
+[![](https://img.shields.io/badge/-🚙%20RC%20Car-000)](#)  
+[![](https://img.shields.io/badge/-🏠%20Smart%20Home%20System-000)](#)  
+[![](https://img.shields.io/badge/-🤖%20Omniwheel%20Robot%20Arm%20Pick%20%26%20Place-000)](#)  
+[![](https://img.shields.io/badge/-🦾%20Hydraulic%20Robotic%20Arm-000)](#)  
 [![](https://img.shields.io/badge/-⚙️%20Crank%20%26%20Piston%20Mechanism-000)](#)  
-[![](https://img.shields.io/badge/-🤖%203DOF%20Control%20System-000)](#)  
 [![](https://img.shields.io/badge/-🔌%20Solenoid%20Valve%20Control-000)](#)  
-[![](https://img.shields.io/badge/-🛞%20Transmission%20%26%20Shaft%20Design-000)](#)
+[![](https://img.shields.io/badge/-🛞%20Transmission%20%26%20Shaft%20Design-000)](#)  
+[![](https://img.shields.io/badge/-📱%20Car%20Rental%20Application%20(Java)-000)](#)
 
 ---
 
